@@ -1,0 +1,14 @@
+cache
+cache_locks
+categories
+failed_jobs
+job_batches
+jobs
+migrations
+producto_proveedor
+products
+profiles
+proveedors
+sqlite_sequence
+suppliers
+users
